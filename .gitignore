@@ -1,0 +1,6 @@
+/target
+/crates/rnote-compose
+/crates/rnote-engine
+/files
+Cargo.toml
+Cargo.lock
