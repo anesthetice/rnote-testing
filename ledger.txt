@@ -1,0 +1,7 @@
+BASELINE: Json, Gzip(5) => ccr: 0.00000 ; ctr: -0.00717
+Bitcode, Gzip(5) => ccr: 0.05823 ; ctr: 0.21791
+Flatbuffers, Gzip(5) => ccr: -0.39655 ; ctr: -0.15848
+
+Json, Zstd(9) => ccr: 0.37132 ; ctr: 0.49825
+Bitcode, Zstd(9) => ccr: 0.41317 ; ctr: 0.71579
+Flatbuffers, Zstd(9) => ccr: 0.01324 ; ctr: 0.54360
